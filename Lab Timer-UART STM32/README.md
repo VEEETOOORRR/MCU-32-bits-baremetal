@@ -2,7 +2,7 @@
 
 Projeto referente ao Laboratório de Timer e UART, implementando um gerador de onda senoidal de frequência variável utilizando síntese digital direta (**DDS**), modulação por largura de pulso (**PWM**), filtro passa-baixas **RC** e controle em tempo real via comunicação serial **UART**.
 
-**Vídeo de demonstração:** [Link do YouTube](#)
+**Vídeo de demonstração:** [Link do YouTube](https://youtu.be/RUs7mdZtDjo)
 
 ---
 
